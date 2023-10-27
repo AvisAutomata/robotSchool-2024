@@ -32,8 +32,8 @@ public final class Constants
 
     //TODO figure out compressor numbers and stuff
     public static final int cCompressor = 0;
-    public static final int cSolenoidFWD = 7;
-    public static final int cSolenoidREV = 6;
+    public static final int cSolenoidFWD = 6;
+    public static final int cSolenoidREV = 7;
 
     public static final VictorSPX left = new VictorSPX(5);
     public static final VictorSPX right = new VictorSPX(3);
